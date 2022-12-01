@@ -31,6 +31,7 @@ Contributions welcome!
 
 ## TODO
 
-add this
+add these (I'm sooo lazy today)
 
 * https://github.com/jsiebens/tskeyservice
+* https://github.com/davidsbond/vault-plugin-tailscale
